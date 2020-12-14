@@ -1,0 +1,1 @@
+{"version":3,"sources":["./src/styles.less"],"names":[],"mappings":"AACA,mBAIA,SACA,SACA","file":"styles.a3ad555c62f516d480b6.css","sourcesContent":["/* You can add global styles to this file, and also import other style files */\nbody,\nsection,\ndiv,\np {\n  margin: 0;\n  padding: 0;\n}\n"],"sourceRoot":"webpack:///"}
